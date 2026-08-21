@@ -19,6 +19,8 @@
 2. 在 DSH Desktop 中：**Settings → Plugins → Plugin market → Sources** → 添加该 URL。
 3. 上面列出的所有插件随后会出现在 **Discover** 与 **Installable** 中。
 
+带截图的分步教程：[安装指南](install.zh.md)（[English](install.md)）。
+
 ## 许可证
 
 MIT — 见 [LICENSE](../LICENSE)。

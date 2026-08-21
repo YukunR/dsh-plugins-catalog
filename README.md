@@ -19,6 +19,8 @@ Metabolomics, phosphoproteomics, and other omics plugins will be added here over
 2. In DSH Desktop: **Settings → Plugins → Plugin market → Sources** → add that URL.
 3. Every plugin listed above then appears under **Discover** and **Installable**.
 
+Step-by-step walkthrough with screenshots: [install guide](docs/install.md) ([中文](docs/install.zh.md)).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
