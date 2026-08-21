@@ -15,7 +15,7 @@
 ## 将本来源添加到 DSH Desktop
 
 1. 复制本仓库的目录源 URL：
-   `https://yukunr-dsh-catalog.<your-subdomain>.workers.dev/catalog-source.json`
+   `https://yukunr-dsh-catalog.845351766.workers.dev/catalog-source.json`
 2. 在 DSH Desktop 中：**Settings → Plugins → Plugin market → Sources** → 添加该 URL。
 3. 上面列出的所有插件随后会出现在 **Discover** 与 **Installable** 中。
 

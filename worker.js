@@ -10,7 +10,7 @@
 //   2. Name it (e.g. yukunr-dsh-catalog), click Deploy, then "Edit code"
 //   3. Paste this whole file, click Deploy
 //   4. Your source URL is:
-//        https://yukunr-dsh-catalog.<your-subdomain>.workers.dev/catalog-source.json
+//        https://yukunr-dsh-catalog.845351766.workers.dev/catalog-source.json
 //   5. In DSH Desktop: Settings -> Plugins -> Plugin market -> Sources ->
 //      add a source with that manifest URL. All plugins below appear there.
 //

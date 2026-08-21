@@ -61,7 +61,7 @@ Expected output: `1.0.0 https://x.test.workers.dev/v1/plugins 1 1`.
 1. https://dash.cloudflare.com → Workers & Pages → Create → Create Worker.
 2. Name it `yukunr-dsh-catalog`, click Deploy, then **Edit code**.
 3. Paste the whole `worker.js`, click Deploy.
-4. Source URL: `https://yukunr-dsh-catalog.<your-subdomain>.workers.dev/catalog-source.json`
+4. Source URL: `https://yukunr-dsh-catalog.845351766.workers.dev/catalog-source.json`
 
 ### Option B — Wrangler CLI
 

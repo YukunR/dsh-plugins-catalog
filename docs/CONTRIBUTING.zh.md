@@ -61,7 +61,7 @@ node --input-type=module -e "import('./worker.js').then(async ({ default: w }) =
 1. https://dash.cloudflare.com → Workers & Pages → Create → Create Worker。
 2. 命名为 `yukunr-dsh-catalog`，点击 Deploy，然后 **Edit code**。
 3. 粘贴整个 `worker.js`，点击 Deploy。
-4. 来源 URL：`https://yukunr-dsh-catalog.<your-subdomain>.workers.dev/catalog-source.json`
+4. 来源 URL：`https://yukunr-dsh-catalog.845351766.workers.dev/catalog-source.json`
 
 ### 方式 B — Wrangler CLI
 
