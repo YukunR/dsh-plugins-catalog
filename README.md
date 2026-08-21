@@ -15,7 +15,7 @@ Metabolomics, phosphoproteomics, and other omics plugins will be added here over
 ## Add this source to DSH Desktop
 
 1. Copy the catalog source URL for this repo:
-   `https://yukunr-dsh-catalog.845351766.workers.dev/catalog-source.json`
+   `https://dsh-plugin.yukunr.top/catalog-source.json`
 2. In DSH Desktop: **Settings → Plugins → Plugin market → Sources** → add that URL.
 3. Every plugin listed above then appears under **Discover** and **Installable**.
 
