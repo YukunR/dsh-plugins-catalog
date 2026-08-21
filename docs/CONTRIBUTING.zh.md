@@ -6,7 +6,7 @@ YukunR DSH 插件目录源的维护者指南。
 
 ## 工作原理
 
-DSH Desktop 市场通过 HTTPS 读取一个**标准目录来源**：
+[DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) 市场通过 HTTPS 读取一个**标准目录来源**：
 
 - `GET /catalog-source.json` — 目录源 manifest（`manifestVersion`、`providerId`、`transport.endpoint`、查询契约）。`transport.endpoint` 根据请求 origin 动态填充，因此同一 Worker 适用于任意子域。
 - `GET /v1/plugins` — 列出所有插件条目的 provider 页面。

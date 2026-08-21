@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](docs/README.zh.md)
 
-The **official plugin-market catalog source for all YukunR DeepSeek Harness (DSH) plugins**. Add this one source in DSH Desktop and every plugin below appears under **Discover** and **Installable** — no per-plugin sources to configure.
+The **official plugin-market catalog source for all YukunR DeepSeek Harness (DSH) plugins**. Add this one source in [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) and every plugin below appears under **Discover** and **Installable** — no per-plugin sources to configure.
 
 ## Included plugins
 
@@ -18,6 +18,8 @@ Metabolomics, phosphoproteomics, and other omics plugins will be added here over
    `https://dsh-plugin.yukunr.top/catalog-source.json`
 2. In DSH Desktop: **Settings → Plugins → Plugin market → Sources** → add that URL.
 3. Every plugin listed above then appears under **Discover** and **Installable**.
+
+Step-by-step walkthrough with screenshots: [install guide](docs/install.md) ([中文](docs/install.zh.md)).
 
 ## License
 
