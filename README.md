@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](docs/README.zh.md)
 
-The **official plugin-market catalog source for all YukunR DeepSeek Harness (DSH) plugins**. Add this one source in DSH Desktop and every plugin below appears under **Discover** and **Installable** — no per-plugin sources to configure.
+The **official plugin-market catalog source for all YukunR DeepSeek Harness (DSH) plugins**. Add this one source in [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) and every plugin below appears under **Discover** and **Installable** — no per-plugin sources to configure.
 
 ## Included plugins
 

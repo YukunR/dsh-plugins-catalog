@@ -2,7 +2,7 @@
 
 [English](../README.md) | [中文](README.zh.md)
 
-**YukunR 所有 DeepSeek Harness (DSH) 插件的官方插件市场目录源**。在 DSH Desktop 中添加这一个来源，下列所有插件就会出现在 **Discover（发现）** 与 **Installable（可安装）** 中——无需为每个插件单独配置来源。
+**YukunR 所有 DeepSeek Harness (DSH) 插件的官方插件市场目录源**。在 [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) 中添加这一个来源，下列所有插件就会出现在 **Discover（发现）** 与 **Installable（可安装）** 中——无需为每个插件单独配置来源。
 
 ## 已收录插件
 

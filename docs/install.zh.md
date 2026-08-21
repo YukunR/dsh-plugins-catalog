@@ -2,7 +2,7 @@
 
 [English](install.md) | [中文](install.zh.md)
 
-本文演示如何在 **DSH Desktop** 中通过内置插件市场添加 YukunR 插件目录源。
+本文演示如何在 [**DSH Desktop**](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) 中通过内置插件市场添加 YukunR 插件目录源。
 添加这一个来源后，本目录下的所有插件（目前为 `dsh-ezprot-plugin`）都会出现在
 **Discover（发现）** 与 **Installable（可安装）** 中。全程图形界面操作，无需终端。
 

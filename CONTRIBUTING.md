@@ -6,7 +6,7 @@ Maintainer guide for the YukunR DSH plugins catalog source.
 
 ## How it works
 
-The DSH Desktop market reads a **standard catalog source** over HTTPS:
+The [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) market reads a **standard catalog source** over HTTPS:
 
 - `GET /catalog-source.json` — the catalog-source manifest (`manifestVersion`, `providerId`, `transport.endpoint`, query contract). `transport.endpoint` is filled from the request origin, so one Worker works on any subdomain.
 - `GET /v1/plugins` — the provider page listing every plugin entry.

@@ -2,7 +2,7 @@
 
 [English](install.md) | [中文](install.zh.md)
 
-This guide shows how to add the YukunR plugin catalog source in **DSH Desktop** via the built-in plugin market. Add this one source and every plugin in this catalog (currently `dsh-ezprot-plugin`) appears under **Discover** and **Installable**. Everything is done in the GUI — no terminal needed.
+This guide shows how to add the YukunR plugin catalog source in [**DSH Desktop**](https://github.com/anywhere-labs/deepseek-harness-desktop#dsh-desktop) via the built-in plugin market. Add this one source and every plugin in this catalog (currently `dsh-ezprot-plugin`) appears under **Discover** and **Installable**. Everything is done in the GUI — no terminal needed.
 
 ## Prerequisites
 
