@@ -1,0 +1,11 @@
+// Cloudflare Workers configuration for the YukunR DSH plugins catalog.
+// The `name` must match the Worker created in the Cloudflare dashboard.
+// Deploy with `wrangler deploy` after `wrangler login` (requires a Cloudflare
+// account; no credentials are stored in this repository).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "yukunr-dsh-catalog",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-21",
+  "workers_dev": true
+}
